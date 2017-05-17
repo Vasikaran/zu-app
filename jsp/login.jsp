@@ -4,8 +4,14 @@
 	<title>ZU App</title>
 </head>
 <body>
-	<input type="text" name="username"/>
-	<input type="password" name="pwd"/>
-	<button>Login</button>
+	<div>
+		<input type="text" name="username" placeholder="Username"/>
+	</div>
+	<div>
+		<input type="password" name="pwd" placeholder="Password"/>
+	</div>
+	<div>
+		<button>Login</button>
+	</div>
 </body>
 </html>
